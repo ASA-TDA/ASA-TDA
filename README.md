@@ -1,4 +1,4 @@
-## Hi there 👋
+## This repo (ASA-TDA) was made to enable the development of a Github pages website for the TDA Chapter of the ASA. 👋
 
 <!--
 **ASA-TDA/ASA-TDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
